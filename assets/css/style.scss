@@ -82,6 +82,13 @@ a {
   font-size: 16pt;
 }
 
+blockquote {
+  padding-left: 3ex;
+  font-style: italic;
+  font-size: 18pt;
+  border-left: 10px solid rgba(40, 40, 40, .7);
+}
+
 footer {
   position: fixed;
   bottom: 0;
