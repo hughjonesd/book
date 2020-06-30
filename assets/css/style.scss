@@ -17,6 +17,7 @@ body {
   background-blend-mode: screen;
   height: 11em; 
   width: 100%;
+  padding-top: 1rem;
   padding-left: 5%;
   padding-right: 5%;
   margin: 0;
@@ -25,14 +26,13 @@ body {
 
 #header h1 {
   font-size: 28pt;
-  text-color: #666;
-  margin-top: 0.5ex;
+  color: #666;
   margin-bottom: 0.25ex;
 }
 
 #header h2 {
   font-size: 20pt;
-  text-color: #666;
+  color: #666;
   margin-top: 6pt;
 }
 
