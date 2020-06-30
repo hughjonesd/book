@@ -18,7 +18,6 @@
 </div>
 <!--End mc_embed_signup-->
 
-To receive updates about the book, email 
-[wyclifsdust@gmail.com](wyclifsdust@gmail.com). Your contact details will
-never be passed on to anyone else. You can unsubscribe at any time by emailing
-the same address with the subject line "unsubscribe".
+Your contact details will
+never be passed on to anyone else, and will only be used for occasional updates. 
+You can unsubscribe at any time.
