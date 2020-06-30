@@ -41,9 +41,14 @@ a {
   color: #244b8a;
 }
 
+#main_strip {
+  width: 100%;
+  background-color: #FFF;
+}
+
 #main {
   max-width: 80%;
-  background-color: #FFF;
+  
   height: 90%;
   margin-left: auto;
   margin-right: auto;
