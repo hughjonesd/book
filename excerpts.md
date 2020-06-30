@@ -1,8 +1,7 @@
 
 # Excerpts
 
-[Introduction](introduction.pdf)
-
+* [Introduction](introduction.pdf)
 * [Excerpt from Chapter 1: homo economicus versus homo culturalis](chapter-1-excerpt.pdf)
 * [Excerpt from Chapter 2: the coming of print religion](chapter-2-excerpt.pdf)
 * [Excerpt from Chapter 2: the public sphere](chapter-2-excerpt-public-sphere.pdf)
