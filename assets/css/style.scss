@@ -88,7 +88,7 @@ blockquote {
   padding-bottom: 0;
   font-style: italic;
   font-size: 18pt;
-  border-left: 12px solid rgba(192, 192, 192, .2);
+  background-image: linear-gradient(to right, rgb(192, 192, 192, .2), transparent);
 }
 
 footer {
