@@ -74,9 +74,12 @@ footer {
   height: 5%;
   width: 100%;
   background-color: black;
-  font-size: 12pt;
-  color: #AAA;
+}
+
+footer p {
   padding-left: 4em;
   padding-bottom: 0.5ex;
+  font-size: 12pt;
+  color: #AAA;
 }
 
