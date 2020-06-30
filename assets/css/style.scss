@@ -6,7 +6,7 @@
 body {
   background: #F0F0F0;
   font-family: 'EB Garamond', serif;
-  
+  margin: 0;
 }
 
 #header {
@@ -76,7 +76,7 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-  height: 2ex;
+  min-height: 2ex;
   width: 100%;
   background-color: black;
 }
