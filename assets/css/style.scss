@@ -29,13 +29,17 @@ body {
 
 
 #menu a {
-  text-color: #666;
+  color: #666;
   margin-top: 12pt;
   margin-bottom: 12pt;
   margin-left: 1cm;
   margin-right: 1cm;
 }
 
+a {
+  underline: none;
+  color: #244b8a;
+}
 
 #main {
   max-width: 80%;
@@ -59,6 +63,6 @@ footer {
   height: 5%;
   width: 100%;
   background-color: black;
-  text-color: white;
+  color: #EEE;
 }
 
