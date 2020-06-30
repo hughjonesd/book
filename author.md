@@ -10,5 +10,5 @@ CTSN 3 was held at the Massachussetts Institute of Technology in December 2018.
 
 # Getting in touch
 
-* Email: <davidhughjones@gmail.com>.
-* Website: <https://www.davidhughjones.co.uk>.
+* Email: <davidhughjones@gmail.com>
+* Website: <https://www.davidhughjones.co.uk>
