@@ -10,7 +10,7 @@ invention of the printing press to the present day.
 > we must rethink our own history. The West did not just develop good institutions
 > and economic growth: it also created a uniquely powerful culture. By reanalysing
 > the rise of the West through a cultural prism, using ideas from the new science
-> of cultural evolution, *Wyclif's Dust* shows where modern liberalism went wrong, 
+> of cultural evolution, **Wyclif's Dust** shows where modern liberalism went wrong, 
 > and how to repair it.
 
 
