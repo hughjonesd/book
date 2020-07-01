@@ -10,8 +10,8 @@ body {
 }
 
 #header {
-  background-color: #888; 
-  background-image: url('/assets/images/map.png');
+  background-color: #888;
+  background-image: url('/assets/images/map.png'), linear-gradient(to right, #888, #ffed9c);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: screen;
