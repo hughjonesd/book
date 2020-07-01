@@ -3,7 +3,8 @@
 
 # Sign up
 
-Sign up to receive updates about the book and publication.
+If you would like to receive updates about *Wyclif's Dust*, including events, 
+publication dates, and opportunities to reserve an advance copy, you can subscribe below.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -20,6 +21,6 @@ Sign up to receive updates about the book and publication.
 </div>
 <!--End mc_embed_signup-->
 
-Your contact details will
-never be passed on to anyone else, and will only be used for occasional updates. 
-You can unsubscribe at any time.
+This aims to be a low-volume, high-quality mailing list. Your contact
+details will never be passed on to anyone else, and you can unsubscribe at any
+time.
