@@ -43,9 +43,11 @@ body {
   background-color: rgba(192, 192, 192, .5);
   margin-top: 12pt;
   margin-bottom: 12pt;
-  margin-left: 4ex;
-  margin-right: 4ex;
+  margin-left: 3em;
+  margin-right: 3em;
   text-decoration: none;
+  padding: 4px;
+  border-radius: 2px;
 }
 
 #menu a:hover {
@@ -85,8 +87,8 @@ a {
 
 blockquote {
   margin-left: 0;
-  padding-left: 3em;
-  padding-right: 3em;
+  padding-left: 2em;
+  padding-right: 2em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   font-style: italic;
