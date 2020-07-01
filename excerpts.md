@@ -6,7 +6,7 @@
 > often itself part of the problem. In this case, deep and radical rethinking of
 > widely held assumptions is needed before the problems can be tackled right....
 > I wrote this book because I believe our current problems in the West 
-> are of this kind. They require the intellectual equivalent of major surgery. 
+> are of this kind.
 
 
 * [Introduction](introduction.pdf)
