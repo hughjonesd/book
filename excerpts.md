@@ -17,3 +17,4 @@
 * [Excerpt from Chapter 6: the Great Disruption](chapter-6-excerpt.pdf)
 * [Excerpt from Chapter 6: the incomplete exit](chapter-6-excerpt-incomplete.pdf)
 * [Excerpt from Chapter 7: the roots of our problems](chapter-7-excerpt.pdf)
+
