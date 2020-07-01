@@ -8,8 +8,9 @@
 > I wrote this book because I believe our current problems in the West 
 > are of this kind. They require the intellectual equivalent of major surgery. 
 
+
 * [Introduction](introduction.pdf)
-* [Excerpt from Chapter 1: homo economicus versus homo culturalis](chapter-1-excerpt.pdf)
+* [Excerpt from Chapter 1: *homo economicus* versus *homo culturalis*](chapter-1-excerpt.pdf)
 * [Excerpt from Chapter 2: the coming of print religion](chapter-2-excerpt.pdf)
 * [Excerpt from Chapter 2: the public sphere](chapter-2-excerpt-public-sphere.pdf)
 * [Excerpt from Chapter 3: civilizing crusades](chapter-3-excerpt.pdf)
