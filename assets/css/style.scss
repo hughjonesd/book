@@ -38,8 +38,11 @@ body {
   margin-top: 6pt;
 }
 
-#menu a {
+#menu {
   display: flex;
+}
+
+#menu a {
   color: #555;
   //font-weight: bold;
   background-color: rgba(217, 214, 202, .5);
