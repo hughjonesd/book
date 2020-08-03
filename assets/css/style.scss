@@ -40,23 +40,34 @@ body {
 
 #menu {
   display: flex;
+  width: 100%;
 }
 
-#menu a {
+#menu a, #menu div {
   color: #555;
+  display: inline-block;
   //font-weight: bold;
   background-color: rgba(217, 214, 202, .5);
   margin-top: 12pt;
   margin-bottom: 12pt;
-  margin-left: 3em;
-  margin-right: 3em;
+  margin-left: 2em;
+  margin-right: 2em;
   text-decoration: none;
   padding: 2px 4px;
   border-radius: 3px;
 }
 
+#menu div.social {
+  background-color: transparent;
+}
+
 #menu a:hover {
   color: #ad0940;
+}
+
+#menu a#signup-link {
+  color: #FFFAB2;
+  background-color: #ad0940;
 }
 
 a {

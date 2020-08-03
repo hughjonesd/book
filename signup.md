@@ -3,8 +3,11 @@
 
 # Sign up
 
-If you would like to receive updates about *Wyclif's Dust*, including events, 
+To receive updates about *Wyclif's Dust*, including events, 
 publication dates, and opportunities to reserve an advance copy, sign up below.
+
+**As a thank you, the welcome email will include a link to a free downloadable
+copy of Chapter One.**
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -15,7 +18,7 @@ publication dates, and opportunities to reserve an advance copy, sign up below.
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_05f8a412a8d4d930c8da246a2_a0b3bce36a" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color: darkgreen;"></div>
     </div>
 </form>
 </div>

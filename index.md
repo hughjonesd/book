@@ -11,6 +11,5 @@ from the invention of the printing press to the present day.
 > of cultural evolution, **Wyclif's Dust** shows where modern liberalism went wrong, 
 > and how to repair it.
 
+[Sign up](signup.md) to receive Chapter One as a free sample.
 
-On this website, you can download [excerpts](excerpts.md),  [sign up](signup.md) 
-to receive updates on the book, or read more about the [author](author.md).
