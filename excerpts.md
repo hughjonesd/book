@@ -226,9 +226,9 @@ As we will see below, it also plays a role in the development of one of
 the central facts of modern democratic politics: public opinion.
 
 
-
 *If you liked this, [sign up](signup.md) to the free, spam-free,
 low-volume mailing list, and read another chapter for free.*
+
 
 ## Bibliography
 
