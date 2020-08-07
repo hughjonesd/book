@@ -1,312 +1,204 @@
 
 
+
+# Table of Contents
+
+1. Culture: a toolkit
+2. Saints: religion and the printing press
+3. The hothouse 
+4. Looking backwards
+5. Secessionists: the early twentieth century
+6. The Disruption: the late twentieth century
+7. Up in the air: the Washington Consensus era
+8. Culture: a hacker’s guide
+
 *To read the whole of Chapter One, [sign up](signup.md) to the free, spam-free,
 low-volume mailing list.*
 
+# Excerpt from Chapter Six: The incomplete exit from the Great Disruption
 
-Excerpt from Chapter Two: The coming of print religion
-============================
+Francis Fukuyama's book ends optimistically, suggesting that we are in
+the process of a "great reconstruction", which puts cultural constraints
+on human behaviour back in place. I hope that is true. There have
+certainly been signs of it. Since the 1990s, in several countries crime
+has come down from its post-war high. Teen pregnancy rates have fallen
+dramatically. Other trends in sexual behaviour also seem to have leveled
+off or reversed.[^1]
 
-Although some groups such as Jews were able to specialize in literacy to
-a great degree, before the printing press, literacy was confined to
-relatively few out of all of European society, and could play only a
-limited coordinating role. The invention of the printing press changed
-this dramatically. Books became much cheaper and could be mass-produced.
-We know that this transformed Western societies. But how exactly? You
-may think the story goes like this. There was a massive expansion in
-written knowledge, and an explosion of technical and scientific printed
-output, and a slower increase in literacy, as more and more people were
-able to take advantage of these newly available treasures. The resulting
-increase in knowledge transformed society.[^1]
+However, these improvements may not reflect a cultural change. There are
+other reasons why crime has dropped, including the introduction of new
+forms of policing and surveillance, and above all, higher rates of
+imprisonment. The US imprisonment rate has more than tripled since 1978.
+In other words, society is substituting external, legal enforcement for
+internal, cultural controls. We are buying lower crime rates with more
+prisons. Since crime is still much higher than it was pre-1960s, there
+may be limits to this strategy. Similarly, changes in sexual behaviour
+may be due to the rise of awareness about HIV and AIDS.[^2]
 
-In the very long run, this is about right. But it misses something
-important. After Gutenberg, there is certainly an explosion in writing.
-Over the fifteenth century, Western Europe produced about 5 million
-manuscripts in total; in the next fifty years alone, 80 million printed
-books were produced, and for the eighteenth century the figure is a
-billion. But the most common topic of these books is not science,
-engineering, household management or farming advice. It is religion. A
-few statistics will give the flavour. 45% of Italian incunabula the
-earliest printed books were on religious topics. In England, about 40%
-of the editions published from 1480-1640 were religious by far the
-largest category. Across Europe, 35% of all editions between 1454 and
-1600 were on religious topics.[^2]
-
-It takes a little thought to see how extraordinary that is. It is clear
-that the expense of print was a tightly binding constraint on the growth
-and transmission of knowledge. The printing press loosened that
-constraint. But technical knowledge is not what the press was most used
-for. This was not due to repression by rulers: the surge in religious
-publication was driven by popular demand. In 1530, there were 64,000
-clandestine copies of Tyndale's New Testament in England, at a time when
-owning it was illegal. By contrast, Galileo's epoch-making *New Science*
-was a rare edition, which interested only a tiny group of specialists.
-Why read the Bible when you are desperately short of many more practical
-kinds of knowledge? To answer that question, we must look at how print
-helped to create new religious forms and practices.[^3] I will give
-these the name *print religion.*
-
-These were not just changes in practice. New denominations and groups
-formed to support and spread the new form of religion: first the
-Lutherans in Germany and Northern Europe, then the Calvinists of Geneva,
-Holland, and Britain, as well as new groups within Catholicism, like the
-Jesuits and later the Jansenists. These groups developed collective
-practices and institutions to reinforce the individual transformation
-they were aiming at. New ways of acting and thinking often challenge
-existing institutions, especially religious institutions, whose power is
-closely tied to specific beliefs; so the new groups also inevitably
-became political actors, supporting their interests in conflicts with
-the status quo powers, which often became violent. The print religion
-*par excellence* was Protestantism, and the link between Protestantism
-and the printing press was celebrated by the first reformers Luther
-described the press as "God's highest and ultimate gift of grace" and
-has been discussed ever since. Nevertheless, it would be wrong to
-identify the new religious practices with any one of these groups, or
-with any specific religious beliefs. The Protestant reforms engendered a
-Catholic response, the counter-reformation or Catholic reformation,
-which was in many ways parallel, so much that some modern historians
-describe both reformation and counter-reformation as a single process of
-"confessionalization". Indeed, some key parts of print religion, for
-example inward self-examination and methodical spiritual exercises, were
-arguably first developed within the counter-reformation, and catalyzed
-Protestant responses. In short, Protestantism, Calvinism, and
-Catholicism all contributed to the development of print religion. This
-does not imply that all forms of print religion were the same: as we
-will see, there are substantial differences between different countries
-in the nature of print religion, its relationship with the political
-authorities, and its effects on society.[^4]
-
-But they did share some characteristics in common. First, religious
-reading, self-examination and self-discipline were central to the life
-of the believer. Second, religious groups were organized to support this
-transformed lifestyle, and developed institutions for this purpose both
-teaching institutions, and enforcement institutions. Third, these
-religious groups were deeply woven into the lives of their adherents,
-providing a basis for new economic and social relationships, and to
-varying degrees becoming a source of social power and creating new
-collective actors; we shall see below how this changed the politics of
-the era.
-
-### The new life of the believer
-
-The shortest definition of print religion is "book religion for
-everybody". Print religion extended the close engagement of the Catholic
-priest with the Bible, or the *hafiz* with the Quran, to all adherents.
-The Lutheran idea of the priesthood of all believers was more than a
-theological concept: it was a description of how the new religion was
-meant to work. The new practices of religious life included individual
-study and devotion, solitary reading, prayer, meditation and
-diary-writing; and family reading, prayer and discussion. There were
-precedents for many of these practices before printing, for example in
-the Catholic movement called the *devotio moderna*. But it was printing
-that, by making rulebooks and manuals available to many more people, let
-these practices become widespread.[^5]
-
-I will take most of my examples from English (and New England)
-Puritanism. This is partly because Puritanism has generated a uniquely
-large and fruitful historical literature, but also because Puritanism
-was influential across Protestant Europe. For instance, the translation
-of Puritan devotional literature into German strongly influenced the
-Pietist movement of the 17th and 18th centuries, which in turn was taken
-up by the nascent Prussian state; later Pietism returned the favour by
-influencing 18th-century Methodism. Puritan works were also widely
-received in Holland. On the Catholic side, the deep focus on the state
-of the believer's soul and on practices to guide it can be found in
-various Catholic movements, including the Jesuits, who practiced a
-quasi-military form of spiritual discipline, and the French quietists.
-Jesuit and counter-reformation thought may have influenced the English
-Puritans.[^6]
-
-Reading was not just a way the new practices spread, it was a key
-practice itself. "To reade the word, and to meditate thereon, is a daily
-part of a Christian holy life," said the New England Puritan John
-Cotton. The most important text was of course the Bible, but this was
-supplemented by a whole literature on self-improvement. Some works were
-on nearly as many bookshelves as the Bible itself, and remained there
-for centuries: in English, *Foxe's Book of Martyrs*, the *Whole Duty of
-Man* and later *Pilgrim's Progress*; in Germany, the anonymous
-*Theologia Germanica* and Johann Arndt's *Das Wahre Christentum* ("True
-Christianity"), which was popular throughout Protestant Europe. The
-private reading encouraged by Protestants could be highly methodical and
-intellectual. In his text for preachers *The Art of Prophesying*, the
-Puritan William Perkins recommended cataloguing-style techniques for
-bible study, using a commonplace book: "divide the right-hand pages of
-your book into columns\... Head each of these pages with a major
-topic\...". He also suggested creating an alphabetical index for ease of
-reference. Devotional manuals laid down rules for reading, including
-making it part of one's daily routine and avoiding wandering thoughts,
-and provided model prayers to be said before reading. But reading was
-not just an intellectual activity: the Bible was to be read and
-meditated upon, and manuals suggested visualization techniques like
-imagining Christ on the cross to bring the message home. [^7]
-
-Many people also wrote. In particular, diary-writing and autobiography
-were designed to chart the individual's daily progress to salvation.
-They allowed for self-examination, both spiritual and practical: "I
-spoke two unadvised Words to Day\.... I was too forgetful of God, and
-extending in Tobacco," wrote one New England diarist. Nightly diaries
-could be a form of accounting, recording how one had spent one's time in
-the day, perhaps including a list of the sins one had committed. Later,
-these diaries might be worked up into spiritual autobiographies,
-narrating the believer's religious experience for the benefit of
-others.[^8]
-
-Typically, prayer might refer back to earlier reading of the Bible, or
-heard sermons. People prayed both individually, often seeking out
-solitary places or retiring to their bedchamber, and collectively in the
-family. Prayer was linked to meditation both internal monologue, and
-visualization on Biblical themes. More generally, meditation meant
-focusing on one's own mental state. Don't think of modern Buddhism: this
-focus was vigilant and critical. The aim was to notice, and repent of,
-one's sins in thought, word and deed, and the long-term goal was to
-transform the self, not accept it. Believers must "learne to force our
-natures"; to "rule and beare sway even as Kings over our owne thoughts,
-wils, affections, over-mastering them". This was supplemented with the
-help of a large number of rules of life, derived from the Bible but
-applied to the context of early modern life. One believer levied fines
-on himself for breaking them, putting money into a personal poor box a
-practice which survives in the "swear box". Some self-improvement books
-provided a daily schedule to keep to; over the week, the Sunday rest
-provided a full stop for disciplined reflection. [^9]
-
-These practices brought a new level of introspection to people's
-consciousness, an awareness of and focus on the state of one's soul.
-Philosophers sometimes call this "interiority". I will use the word
-*inwardness*.[^10] Inwardness means being aware of one's own
-consciousness, including one's beliefs and thoughts. This is a
-fundamental capability of human psychology. At the same time, it is
-partly a cultural achievement. This is true in two ways. First,
-introspection was pursued by members of the new religions because their
-beliefs encouraged it. Second, the practice of inwardness was made
-easier, even made possible in some ways, by the technology of the book
-and literacy. For writing helps individuals to fix their beliefs, that
-is, to map their shifting mental states to a clear set of propositions.
-This is not a natural ability, and there is no single, "natural" way to
-perform the mapping. In the course of an hour, I may have many thoughts,
-even many which are articulated in language, but not all of these will
-qualify as beliefs. To some extent my beliefs are chosen. One can even
-argue that the need to choose what to write down helps to produce, or
-clarify, the phenomenon of belief itself. A belief is more than a
-passing thought: it is a proposition one endorses and is prepared to
-defend. Endorsing and arguing for beliefs are social practices, and the
-way these have been done in the West is linked to the practice of
-writing. Because print helped to turn reading and writing from a rare,
-specialized skill into a central plank of social organization, it also
-helped to spread the practices of inwardness; and as the practices
-spread, they elaborated.
-
-It is worth considering at the broadest level why the practice of
-inwardness matters. The solitary thinker can do two things: first, he
-may compare his current thoughts with his past ideas, testing and
-adjusting them for mutual coherence. Doing so makes sure that beliefs
-and fundamental commitments persist within the individual's psychology
-sometimes, also, that they are revised in the light of new ideas and new
-evidence. Second, especially when he has access to ideas recorded in
-writing, he may do the same testing and adjusting with the ideas of
-other people from the past.
-
-These practices provide an anchor for society. Communication between
-individuals can share ideas, develop consensus and strengthen norms,
-allowing a group of present individuals to reach a collective decision
-about what to do. But to be successful in the long run, communities must
-also be able to retain their identity and purposes through time. This
-means not just developing consensus, but also breaking an existing
-consensus when times have changed, or when existing practices and
-beliefs have declined from the original ideals, perhaps under the
-pressure of self-interest. The ability to challenge society's current
-practice and intellectual consensus, in the name of its deeper long-run
-commitments, is what allows continuity of purpose through the changes of
-history. Such challenges are present in many of the steps forward made
-by our societies, such as the long campaign by religiously-motivated
-reformers to end the Transatlantic slave trade.
-
-Inwardness, then, is a fundamental part of our mental furniture, which
-is nevertheless a historical achievement. This alone makes it important.
-As we will see below, it also plays a role in the development of one of
-the central facts of modern democratic politics: public opinion.
+Also, not all trends have reversed. Some have flattened out. Others have
+carried on rising. The table below sums up what we know, and points out
+some alternative, less reassuring explanations ("Yes, but\..."). Most
+data is from the United States, which tends to be a leading indicator
+for Europe.
 
 
-*If you liked this, [sign up](signup.md) to the free, spam-free,
-low-volume mailing list, and read another chapter for free.*
+|  **Variable**   |       **Trend**  |          **Yes, but\...** |
+|-------|--------|---------|
+|  Crime                | Reversed             | More policing and imprisonment. |
+|  Divorce rates        | Flattened/reversed   | Fewer people marry in the first place. |
+|  Illegitimacy         | Continued            |  |
+|  Alcohol consumption  | Reversed             | Flat since 1990s. |
+|  Drug abuse           | Reversed             | New forms of drug use, e.g. opioids. |
+|  Obesity              | Flattened            |  |
+|  Sex in films         | Reversed             | Internet porn. |
+|  Violence in films    | Continued            |  |
+|  Distrust             | Continued            |  |
+|  Narcissism           | Continued            |  |
 
 
-## Bibliography
+While some problems have receded, new ones have appeared. The US inner
+cities of the 80s and 90s saw high crime rates partly due to the
+introduction of crack cocaine. Crack's popularity has declined, but in
+the 2000s, opioid abuse became a serious problem in the US, with deaths
+tripling. This time, the phenomenon was clustered in the towns of
+America's rust belt. Rather than a single increase followed by a
+decline, we may be facing overlapping waves of social problems.[^3]
+
+The Disruption may not be over, but some people and places have come out
+of it better than others. In 1989, a jogger was gang-raped in New York's
+Central Park, and injured so badly that she lay in a coma for 12 days.
+The case became a touchstone for the perception that crime and violence
+were out of control in inner cities. Five black and Hispanic teenagers
+were found guilty and jailed; in 2002, they were freed when another man
+confessed to the attack. Today, crime in Central Park rarely hits the
+headlines. New York's crime rates have fallen dramatically. Why is a
+complicated question, but the trend is unmistakable and is shared across
+many major cities. Similarly, inner city schools, which in the 80s were
+notorious for educational failures, now sometimes perform better than
+those in rural areas. Crack was urban; opioid addiction is worst in
+small towns, Appalachia and the rustbelt.[^4]
+
+Also, the rich have done better than the poor. Charles Murray's *Coming
+Apart* and Robert Putnam's *Our Kids* have both documented this gap in
+the state of the social fabric. The rich get married more and divorced
+less; they are less likely to become single mothers; they are less
+likely to commit crimes and to be victims. And when they do go off the
+reservation, they have airbags. Rich people who get caught taking drugs
+are less likely to go to jail. Rich single mothers can pay for "help" to
+raise their children. If an upper-class teenager develops an opioid
+addiction, his family can afford high quality rehab and counselling.
+Lastly, when the social fabric fails, the rich are better protected by
+formal institutions. They can call the police, who will arrive promptly.
+But in many areas -- and not surprisingly, rich people often struggle to
+understand this -- calling the police just isn't an option. In these areas,
+people have to manage social order on their own.[^5]
+
+None of this should be news. But it suggests that rich and poor people
+are likely to have very different attitudes to the social norms which
+are the first line of defence against the Disruption. Indeed, today,
+poor people are more favourable to the concept of rules than the rich.
+They bring their children up with more structure and less freedom, and
+they are more strict in punishing rule violations. Judging by the
+historical evidence, this was not always so. In the Hothouse period, a
+highly moralized upper class struggled mightily to transmit its values
+down the social ladder.[^6]
+
+There seems to be a paradox here. How can today's rich both have a more
+traditional lifestyle than the poor in terms of marriage, two-parent
+families, paid employment and so on and less traditional attitudes and
+beliefs? Charles Murray puts it this way: the rich don't preach what
+they practice. In private, they conduct themselves according to quite
+traditional moral rules, aided by their higher levels of wealth and
+social capital. But they do not have the confidence to support these
+rules in public. Put another way: in the Disruption period, the moral
+rules of the Hothouse were *privatized*. They still helped to govern
+social life within many households, schools, and other small-scale
+contexts. But the new cultural elite, whose power base was mass media
+and the culture industry, no longer broadcast them. This in turn made a
+difference in the micro-contexts. It is the difference between a class
+teacher who knows she can rely on the head teacher to support her, and a
+class teacher who does not have that backup.
+
+In some cases, that is literally the difference. *The World We Created
+at Hamilton High* is the story of an American high school which became
+integrated in the 1960s. After a period of high racial tensions and
+violence, the 1970s saw a more liberal regime. Previous social norms
+which had included some racist double standards were replaced by formal
+instittutional rules protecting due process. One teacher described a
+typical result:
+
+> I saw the kid cheating\.... They wanted documentation\.... I said I am
+> telling you that he was cheating. But the question now is, "We've
+> heard John's side of the story, what's yours?"
+
+Teachers themselves varied in their belief in the rules. Some wanted to
+enforce higher standards. Others were more relaxed about, say, drug use:
+"It's not a problem if there is no effect on the kid's performance\...
+who are we to say what's right or wrong?" Not surprisingly, in this
+contest, the lower standards won out. (Rule enforcement is a team
+sport.)[^7] And those parents who could afford it moved their children
+to areas with better schools.
+
+Social scientists have puzzled for decades over working class
+conservatism. I claim that it exists because poor and working class
+people have greater need of moral rules, and less resources to enforce
+them. There are two alternative accounts. One is Ronald Inglehart's
+theory of value change. On this story, poor people are more involved in
+a daily struggle for the necessities of life, while rich people can
+afford the search for self-expression in other words, they are higher up
+the Maslowian hierarchy of needs. As a result, poor people value
+economic security above individual freedom. Inglehart was one of the
+first to point out this cultural shift. But, as I said above, the
+Maslowian hierarchy is a myth. There is no universal progression from
+basic needs to higher things. Indeed, even the poorest often value
+self-respect as much or more than supposedly basic goods. And values
+like self-expression are not universal: they are a contingent fact about
+Western culture in the twentieth and twenty-first centuries. They exist
+because of Nietzsche, Vienna and Bloomsbury, not because of
+Modernization and Progress. Lastly, the value change theory might
+explain economic conservatism, but it cannot explain social conservatism
+about, e.g., the family without a great deal of handwaving.
+
+Another theory of working-class conservatism comes from psychology and
+is called system justification theory. In this story, working-class
+people defeat their own self-interest, voting for parties that lower
+taxes and welfare, because of a deep psychological need to believe that
+they live in a just world, even when this world oppresses them. I think
+we should be sceptical of any theory which explains a widespread
+phenomenon by recourse to a form of mass delusion. We should ask for
+solid evidence before accepting that a whole segment of people are,
+essentially, gullible and naı̈ve. Unfortunately, the evidence for system
+justification theory is not strong. It often consists of correlations
+with various personality questionnaire measures, which can be
+interpreted in many ways, and which may be confounded with other
+attitudes. And it comes out of social psychology, which has suffered
+well-known failures to replicate its results. Are working-class
+conservatives who vote for lower taxes like turkeys voting for
+Christmas? They might also be hoping, like most people, to improve their
+own social position, since rich and poor are not fixed castes. And they
+may have observed the moral effects of the redistributive welfare state
+close-up, in their own communities, and decided they dislike them.[^8]
+
+**If you liked this, [sign up](signup.md) to the free, spam-free,
+low-volume mailing list, and get another chapter to download.**
 
 
-Aers, D. (1992) A whisper in the ear of early modernists; or, reflections on literary critics writing the ‘history of the subject.’. In Culture and history 1350-1600, pp. 177–202.
+# Footnotes
 
-Bozeman, T. D. (2012). The Precisianist Strain: Disciplinary Religion and Antinomian Backlash in Puritanism to 1638. UNC Press Books.
+[^1]: Smith, T. W. (2006). American sexual behavior: Trends, socio-demographic differences, and risk behavior.
 
-Cambers, A. (2011). Godly reading: print, manuscript and puritanism in England, 1580-1720. Cambridge University Press.
+[^2]: Levitt, S. D. (2004). Understanding why crime fell in the 1990s: Four factors that explain the decline and six that do not. Journal of Economic perspectives 18(1), 163–190.
 
-Condorcet, M. J. A. N. C. (1795). Sketch for a historical picture of the progress of the
-human mind.
+[^3]: Crack: Grogger, J. and M. Willis (2000). The emergence of crack cocaine and the rise in urban crime rates. Review of Economics and Statistics 82(4), 519–529. Opioids: Rudd, R. A., N. Aleshire, J. E. Zibbell, and R. M. Gladden (2016). Increases in drug and opioid overdose deaths—united states, 2000–2014. American Journal of Transplantation 16(4), 1323–1327. Quinones, S. (2015). Dreamland: The true tale of America’s opiate epidemic. Bloomsbury Publishing USA.
 
-Dittmar, J. and S. Seabold (2015). Media, markets and institutional change: evidence from the protestant reformation.
+[^4]: Opioids: Segal, L. M., A. De Blasi, J. L. Mueller, K. May, and M. Warren (2017). Pain in the Nation: the Drug, Alcohol and Suicide Crises and the Need for a National Resilience Strategy. Trust for America’s Health.
 
-Eisenstein, E. L. (1980). The printing press as an agent of change, Volume 1. Cambridge
-University Press.
+[^5]: Putnam, R. D. (2015). Our kids: The American dream in crisis. New York: Simon & Schuster. Murray, C. (2012). Coming Apart. Crown Forum.
 
-Fulbrook, M. (1983). Piety and politics: Religion and the rise of absolutism in England, 
-Wurttemberg and Prussia. Cambridge University Press.
+[^6]: Poor and the rich: Gelfand, M. (2019). Rule makers, rule breakers: Tight and loose cultures and the secret signals that direct our lives. Scribner.
 
-Hambrick-Stowe, C. E. (2013). The practice of piety: Puritan devotional disciplines in 
-seventeenth-century New England. UNC Press Books.
+[^7]: Team sport: Grant, G. (1988). The world we created at Hamilton High. Harvard University Press.
 
-Hirsch, R. (1974). Printing, selling and reading, 1450-1550. Harrassowitz.
+[^8]: System justification theory: Jost, J. T., M. R. Banaji, and B. A. Nosek (2004). A decade of system justification theory: Accumulated evidence of conscious and unconscious bolstering of the status quo. Political psychology 25(6), 881–919.
 
-Jagodzinski, C. M. (1999). Privacy and Print: Reading and Writing in Seventeenth-Century 
-England. University of Virginia Press.
-
-Klotz, E. L. (1938). A subject analysis of english imprints for every tenth year from 
-1480 to 1640. The Huntington Library Quarterly, 417–419.
-
-McLuhan, M. (2011). The Gutenberg galaxy: The making of typographic man. University of 
-Toronto Press.
-
-Morgan, J. (1988). Godly learning: Puritan attitudes towards reason, learning and 
-education, 1560-1640. Cambridge University Press.
-
-Perkins, W. (1996). The art of prophesying. Digital Puritan Press.
-
-Reinhard, W. (1989). Reformation, counter-reformation, and the early modern state a reassessment. The Catholic Historical Review 75(3), 383–404.
-
-Rubin, J. (2014). Printing and Protestants: an empirical test of the role of printing in the Reformation. Review of Economics and Statistics 96(2), 270–286.
-
-Ryrie, A. et al. (2016). Private and Domestic Devotion in Early Modern Britain. Routledge.
-
-Schilling, H. (1992). Religion, Political Culture and the Emergence of early modern
-society. Essays in German and Dutch history. Revue de l’IFHA.
-
-Stock, B. (1983). The implications of literacy: Written language and models of interpretation in the eleventh and twelfth centuries. Princeton University Press.
-
-Taylor, C. (1991). Sources of the self: the making of the modern identity.
-
-Todd, M. (1992). Puritan self-fashioning: the diary of Samuel Ward. Journal of British Studies 31(3), 236–264.
-
-Zaret, D. (1985). The heavenly contract: Ideology and organization in pre-revolutionary Puritanism. University of Chicago Press.
-
-
-## Footnotes
-
-
-[^1]: Transforming Western societies: Condorcet (1795); McLuhan (2011); for a more scholarly take, Eisenstein (1980).
-
-[^2]: Italian incunabula: Hirsch (1974). England editions 1480-1640: Klotz (1938).  Europe editions 1454-1600: the Universal Short Title Catalogue, cited in Dittmar and Seabold (2017).
-
-[^3]: Copies of Tyndale: Zaret (1985).
-
-[^4]: Print and Protestantism: Rubin (2014); Dittmar and Seabold (2015). Confessionalization: Schilling (1992); Reinhard (1989); and further below. Counter-reformation and Protestant responses: Bozeman (2012).
-
-[^5]: New practices: Morgan (1988); Cambers (2011); Hambrick-Stowe (2013).
-
-[^6]: Pietism and methodism: Fulbrook (1983). Holland and Catholicism: Bozeman (2012).
-
-[^7]: John Cotton, devotional manuals: Hambrick-Stowe (2013). Perkins: Perkins (1996).
-
-[^8]: Cambers (2007); Bozeman (2012); Todd (1992). Tobacco: Hambrick-Stowe (2013).
-
-[^9]: Solitary prayer: Ryrie et al. (2016). Self-improvement, quotations: Bozeman (2012).
-
-[^10]: On the historical development of inwardness, see Taylor (1991); Jagodzinski (1999). Bozeman (2012) discusses Puritan “depth psychology”, including early understandings of projection  and rationalization. Aers (1992) argues that interiority predates print, but links it to pre-printing religious movements centred on intense Bible reading, such as the Lollards. See also Stock (1983).
 
