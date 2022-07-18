@@ -1,4 +1,6 @@
 
+![Book cover for Wyclif's Dust: Western Cultures from the Printing Press to the Present](cover4.jpeg)
+
 *Wyclif's Dust: Western Cultures from the Printing Press to the Present* 
 reinterprets the history of the West, 
 from the invention of the printing press to the present day.
