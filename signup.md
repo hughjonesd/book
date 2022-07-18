@@ -3,8 +3,7 @@
 
 # Sign up
 
-To receive updates about *Wyclif's Dust*, including events, 
-publication dates, and opportunities to reserve an advance copy, sign up below.
+To receive updates about *Wyclif's Dust*, sign up below.
 
 **As a thank you, the welcome email will include a link to a free downloadable
 copy of Chapter One.**
