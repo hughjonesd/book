@@ -1,5 +1,6 @@
 
-*Wyclif's Dust* is a book of history. It reinterprets the history of the West, 
+*Wyclif's Dust: Western Cultures from the Printing Press to the Present* 
+reinterprets the history of the West, 
 from the invention of the printing press to the present day.
 
 > Western nations suffer from severe social problems, rising populism and
@@ -11,5 +12,7 @@ from the invention of the printing press to the present day.
 > of cultural evolution, **Wyclif's Dust** shows where modern liberalism went wrong, 
 > and how to repair it.
 
-[Sign up](signup.md) to receive Chapter One as a free sample.
+[Buy the book on Amazon](https://www.amazon.com/Wyclifs-Dust-Western-cultures-printing/dp/B0B5PPXSQH/).
+
+[Sign up to the mailing list](signup.md) to receive Chapter One as a free sample.
 
