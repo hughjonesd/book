@@ -10,8 +10,8 @@ body {
 }
 
 #header {
-  background-color: #888;
-  background-image: url('/assets/images/bones.png'), linear-gradient(to right, #888, #ffed9c);
+  background-color: #85cddc;
+  background-image: url('/assets/images/bones.png'), linear-gradient(to right, #85cddc, #ffed9c);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: screen;
@@ -27,7 +27,7 @@ body {
 
 #header h1 {
   font-size: 28pt;
-  color: #ad0940;
+  color: #85cddc;
   margin-bottom: 0.25ex;
   text-shadow: 1px 1px 1px rgba(255, 237, 156, .7);
 }
