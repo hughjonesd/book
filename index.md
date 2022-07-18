@@ -1,5 +1,5 @@
 
-<img src="/assets/images/cover4.jpeg" alt="Book cover for Wyclif's Dust: Western Cultures from the Printing Press to the Present" style="width:3in; margin: auto;">
+<img src="/assets/images/cover4.jpeg" alt="Book cover for Wyclif's Dust: Western Cultures from the Printing Press to the Present" style="width:3in; margin: auto; display:block;">
 
 *Wyclif's Dust: Western Cultures from the Printing Press to the Present* 
 reinterprets the history of the West, 
