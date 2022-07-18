@@ -11,7 +11,7 @@ body {
 
 #header {
   background-color: #85cddc;
-  background-image: url('/assets/images/bones.png');
+  background-image: url('/assets/images/bones.png'), linear-gradient(to right, rgb(255, 237, 156), #85cddc);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: screen;
