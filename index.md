@@ -31,7 +31,7 @@ Using ideas from the new science of cultural evolution, Wyclif’s Dust takes yo
 on a journey from our shared past, through our conflict-ridden present, to our
 future.  
 
-[Buy the book on Amazon](https://www.amazon.com/Wyclifs-Dust-Western-cultures-printing/dp/B0B5PPXSQH/).
+[Buy the book on Amazon](https://www.amazon.com/Wyclifs-Dust-Western-cultures-printing/dp/B0B5PPXSQH/) ([UK](https://www.amazon.co.uk/Wyclifs-Dust-Western-cultures-printing/dp/B0B5PPXSQH/)) ([DE](https://www.amazon.de/Wyclifs-Dust-Western-cultures-printing/dp/B0B5PPXSQH/)).
 
 [Sign up to the mailing list](signup.md) to receive Chapter One as a free sample.
 
